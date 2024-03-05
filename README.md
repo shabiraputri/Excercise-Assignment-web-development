@@ -1,6 +1,4 @@
-# Excercise-Assignment-web-development
-
-# 0.4
+```mermaid
 
     sequenceDiagram
     participant browser
@@ -29,3 +27,4 @@
     deactivate server
 
     Note right of browser: The browser executes the callback function that renders the notes
+```
